@@ -1,0 +1,5 @@
+/home/eqzou/eqzou/fruitbox/build/CMakeFiles/fruit_box_local.dir
+/home/eqzou/eqzou/fruitbox/build/CMakeFiles/package.dir
+/home/eqzou/eqzou/fruitbox/build/CMakeFiles/package_source.dir
+/home/eqzou/eqzou/fruitbox/build/CMakeFiles/edit_cache.dir
+/home/eqzou/eqzou/fruitbox/build/CMakeFiles/rebuild_cache.dir
